@@ -15,10 +15,10 @@ Use keys:
 
 Use keys:
 
-  Left Arrow to move to the left
-  Right Arrow to move to the right
-  Up Arrow to jump
-  Down Arrow to perform an attack
+  'Left Arrow' to move to the left
+  'Right Arrow' to move to the right
+  'Up Arrow' to jump
+  'Down Arrow' to perform an attack
 
 How to win:
 When either one of the characters healthbar is empty the remaining player will win, if there's no winner by the end of the timer (60 sec) a tie will be called.
