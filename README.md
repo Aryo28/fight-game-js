@@ -6,19 +6,19 @@ Using your kewboard you are going to be able to control both characters.
 
 Use keys:
 
-'a' to move to the left
-'d' to move to the right
-'w' to jump
-'s' to perform an attack
+  'a' to move to the left
+  'd' to move to the right
+  'w' to jump
+  's' to perform an attack
 
 2nd player (Right player - Kenji)
 
 Use keys:
 
-Left Arrow to move to the left
-Right Arrow to move to the right
-Up Arrow to jump
-Down Arrow to perform an attack
+  Left Arrow to move to the left
+  Right Arrow to move to the right
+  Up Arrow to jump
+  Down Arrow to perform an attack
 
 How to win:
 When either one of the characters healthbar is empty the remaining player will win, if there's no winner by the end of the timer (60 sec) a tie will be called.
