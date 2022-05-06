@@ -21,7 +21,7 @@ Use keys:
   'Down Arrow' to perform an attack
 
 How to win:
-When either one of the characters healthbar is empty the remaining player will win, if there's no winner by the end of the timer (60 sec) a tie will be called.
+When either one of the characters healthbar is empty the remaining player will win, if there's no winner by the end of the timer (60 sec) the character with a higher healthbar will win, but if both healthbars are at the same level a tie will be called.
 
 
 Side Notes:
